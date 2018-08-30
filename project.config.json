@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.0.0",
 	"appid": "wx680ed9137317644f",
-	"projectname": "Protoss",
+	"projectname": "ProtossWx",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
