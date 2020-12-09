@@ -12,6 +12,8 @@
 	"appid": "wx680ed9137317644f",
 	"projectname": "ProtossWx",
 	"isGameTourist": false,
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
